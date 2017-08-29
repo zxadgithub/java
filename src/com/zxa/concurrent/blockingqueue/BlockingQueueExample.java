@@ -1,4 +1,4 @@
-package com.zxa.current.blockingqueue;
+package com.zxa.concurrent.blockingqueue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
